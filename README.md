@@ -15,6 +15,8 @@ Buildings = Brown
 
 Roads = Grey
 
-Railways = Red
+Rails = Red
+
+Water = Blue
 
 
